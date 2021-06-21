@@ -1,5 +1,3 @@
-
-'''python
 import numpy as np       
 import pandas as pd      
 import os  
@@ -47,5 +45,3 @@ for P in P_fuel:
 c_itog = sum(chart_c)
 c_itog
 
-
-'''
